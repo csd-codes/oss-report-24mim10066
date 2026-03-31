@@ -3,7 +3,7 @@ Open Source Software Capstone Project
 ***Software chosen by me is Git
 
 BY
-Roanit Nitin Bhope(24MIP10098)
+CHANDRA SHEKHAR DESHAIPETA 24MIM10066
 
 1. Introduction
 
