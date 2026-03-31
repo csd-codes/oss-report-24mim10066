@@ -3,7 +3,7 @@ Open Source Software Capstone Project
 ***Software chosen by me is Git
 
 BY
-CHANDRA SHEKHAR DESHAIPETA 24MIM10066
+DESHAIPETA CHANDRA SHEKHAR(24MIM10066)
 
 1. Introduction
 
